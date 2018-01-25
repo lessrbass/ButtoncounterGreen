@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Button-counter-Green</string>
+    <string name="Reset">Reset</string>
+    <string name="decrease">Decrease</string>
+    <string name="increase">Increase</string>
+    <string name="zero">0</string>
+</resources>
